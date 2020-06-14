@@ -37,6 +37,7 @@
   
   <b>V0.1.7</b><br>
   - Option 9-6 Installer Working<br>
+  - Filezilla replaced VirtualBox<br>
   - Welcome Message changed "Rebahan Toolbox"<br>
 </p>
 </body>
