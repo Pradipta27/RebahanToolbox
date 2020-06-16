@@ -43,12 +43,12 @@
   - Filezilla replaced VirtualBox<br>
   - Welcome Message changed "Rebahan Toolbox"<br>
   
- <b>V0.1.8</b><br>
+  <b>V0.1.8</b><br>
   - Option 9-16 Moved to Users Request<br>
   - Added Back to Menu Option after File successfully downloaded<br>
   - Redirect to Menu if users input are not available<br>
- <b>V0.1.9</b><br>
-  - added --No-check-certificate Fix
+  <b>V0.1.9</b><br>
+  - Fixed --no-check-certificate bug
 </p>
 </body>
 </html>
