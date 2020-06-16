@@ -47,6 +47,8 @@
   - Option 9-16 Moved to Users Request<br>
   - Added Back to Menu Option after File successfully downloaded<br>
   - Redirect to Menu if users input are not available<br>
+ <b>V0.1.9</b><br>
+  - added --No-check-certificate Fix
 </p>
 </body>
 </html>
