@@ -1,7 +1,7 @@
 <head>
 <body>
 <h1>RebahanToolbox</h1>
-  <h2>NEWEST VERSION : V0.2.0</h2>
+  <h2>NEWEST VERSION : V0.2.1</h2>
     <b><p>Looks1</p>
 <img alt="V0.1.8(1)" src="https://user-images.githubusercontent.com/52622790/84590887-57218a80-ae64-11ea-81d0-b2b00cf4c75e.png">
     <p>Looks2</p></b>
@@ -54,7 +54,11 @@
   <b>V0.2.0</b><br>
   - Added some file program<br>
   - Fixed duplicate file after downloaded bug<br>
-  - Fixed user input after file downloaded bug<br>
+  - Fixed looping when user input not match after file downloaded bug<br>
+  
+  <b>V0.2.1</b><br>
+  - Fixed looping when user input not match in main menu bug<br>
+  
 </p>
 </body>
 </html>
