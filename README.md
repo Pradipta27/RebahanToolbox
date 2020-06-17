@@ -59,6 +59,9 @@
   <b>V0.2.1</b><br>
   - Fixed looping when user input not match in main menu bug<br>
   
+  <b>V0.2.2 - Feature Update! </b><br>
+  -Code Optimization
+  -Feature 1 #Change Computer Name
 </p>
 </body>
 </html>
