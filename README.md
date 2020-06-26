@@ -68,7 +68,7 @@
   - Feature 1 #Change Computer Name
   
    <b>V0.2.3 - Update Bug! </b><br>
-   - bug fix
+   - fixed looping fuction ynbacktomenu(string yn)
 </p>
 </body>
 </html>
