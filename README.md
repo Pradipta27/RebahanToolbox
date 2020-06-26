@@ -66,6 +66,9 @@
   <b>V0.2.2 - Feature Update! </b><br>
   - Code Optimization
   - Feature 1 #Change Computer Name
+  
+   <b>V0.2.3 - Update Bug! </b><br>
+   - bug fix
 </p>
 </body>
 </html>
