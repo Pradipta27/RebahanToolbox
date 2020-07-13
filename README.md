@@ -52,18 +52,18 @@
   - Added Back to Menu Option after File successfully downloaded<br>
   - Redirect to Menu if users input are not available<br>
   
-  <b>V0.1.9</b><br>
+  <b>V0.1.9 - Bug Fixed!</b><br>
   - Fixed --no-check-certificate bug<br>
   
-  <b>V0.2.0</b><br>
+  <b>V0.2.0 - Bug Fixed!</b><br>
   - Added some file program<br>
-  - Fixed duplicate file after downloaded bug<br>
-  - Fixed looping when user input not match after file downloaded bug<br>
+  - Fixed duplicate file after downloaded<br>
+  - Fixed looping when user input not match after file downloaded<br>
   
-  <b>V0.2.1</b><br>
-  - Fixed looping when user input not match in main menu bug<br>
+  <b>V0.2.1 - Bug Fixed!</b><br>
+  - Fixed looping when user input not match in main menu<br>
   
-  <b>V0.2.2 - Feature Update! </b><br>
+  <b>V0.2.2 - Feature Update!</b><br>
   - Code Optimization
   - Feature 1 #Change Computer Name
 </p>
